@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Martin Kolarik'
-description:	       ' Machine learning researcher, Ph.D. student'
+description:	       ' Machine learning researcher'
 author:              'MK'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
