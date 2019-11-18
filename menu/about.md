@@ -1,18 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to my portfolio and blog site!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Hi! My name is Martin Kolarik and this is my personal blog and portfolio page. I am studying a Ph.D. programme in the university BUT in Brno Czech Republic in the field of machine learning and signal processing under associate professor doc. Ing. Radim Burget, PhD. I work as a research scientist on projects in applied and fundamental research. My job experiences include both positions in corporate environment and startup companies. Complete CV and portfolio can be found in the home page clicking on my name in the top of the page or on my [LinkedIn profile](https://www.linkedin.com/in/martin-kola%C5%99%C3%ADk-797b2b167/)
