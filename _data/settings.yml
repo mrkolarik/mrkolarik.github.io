@@ -15,7 +15,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/mrkolarik'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/martin-kolarik-66902/'}
+- {icon: 'linkedin', link: 'www.linkedin.com/in/mrkolarik'}
 # - {icon: 'envelope', link: 'mailto:mr.kolari@email.cz'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'rss-square', link: '/feed.xml'}
