@@ -4,7 +4,7 @@ title: "Basics of image segmentation"
 author: "Martin Kolarik"
 categories: journal
 tags: [documentation,sample]
-image: data2.jpg
+image: data.jpg
 ---
 
 ## Basics of image segmentation
