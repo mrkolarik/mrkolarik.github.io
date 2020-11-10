@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 #- {name: 'Home & CV', path: 'menu', url: 'index.html'}
 #- {name: 'Blog posts', path: 'menu', url: 'writing.html'}
-- {name: 'Blog posts', path: 'menu', url: 'blog.html'}
+#- {name: 'Blog posts', path: 'menu', url: 'blog.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
