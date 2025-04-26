@@ -9,7 +9,12 @@ permalink: /
 Founder | AI Consultant | Machine Learning Scientist  
 Delivering real-world AI systems — from research to revenue.
 
-[GitHub](https://github.com/mrkolarik) • [LinkedIn](https://www.linkedin.com/in/mrkolarik/) • [Google Scholar](https://scholar.google.com/citations?user=w6J2MOQAAAAJ) • [Email](mailto:mr.kolarik@email.cz)
+<div class="profile-links">
+  <a href="https://github.com/mrkolarik">GitHub</a>
+  <a href="https://www.linkedin.com/in/mrkolarik/">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=w6J2MOQAAAAJ">Google Scholar</a>
+  <a href="mailto:mr.kolarik@email.cz">Email</a>
+</div>
 
 ---
 
@@ -78,4 +83,3 @@ Proven track record of building AI-driven products, leading multidisciplinary te
 
 I specialize in solving deep-tech challenges at the intersection of AI, computer vision, and hardware.  
 If you're building something ambitious — or seeking a technical co-founder, consultant, or venture partner — feel free to reach out.
-
