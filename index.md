@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "Martin Kolarik, Ph.D."
+title: "Martin Kolarik, PhD"
 permalink: /
 ---
 
 <section class="hero">
-  <h1 class="hero-title">Martin Kolarik, Ph.D.</h1>
-  <p class="hero-subtitle">Founder &amp; AI Consultant | Machine Learning Scientist</p>
   <p class="hero-tagline">
     Delivering real-world AI systems — from research to revenue.
   </p>
@@ -21,7 +19,7 @@ permalink: /
 <section class="profile">
   <h2>Profile</h2>
   <p>
-    Entrepreneur and senior AI consultant with a Ph.D. in Machine Learning and Computer Vision.  
+    Entrepreneur and senior AI consultant with a PhD in Machine Learning and Computer Vision.  
     Proven track record of building AI-driven products, leading multidisciplinary teams, and scaling innovations from prototype to production.
   </p>
 </section>
@@ -43,7 +41,7 @@ permalink: /
 
 <section class="experience hide-mobile">
   <h2>Experience</h2>
-  <ul class="experience-list">
+  <ul>
     <li><strong>Founder &amp; CEO</strong> — Agiception s.r.o.</li>
     <li><strong>Postdoc Research Scientist</strong> — Brno University of Technology</li>
     <li><strong>AI Consultant &amp; Developer</strong> — Freelance</li>
@@ -54,7 +52,7 @@ permalink: /
 <section class="education hide-mobile">
   <h2>Education</h2>
   <p>
-    <strong>Ph.D. in Data Science &amp; Machine Learning</strong> — Brno University of Technology
+    <strong>PhD in Data Science &amp; Machine Learning</strong> — Brno University of Technology
   </p>
   <p>
     <em>
@@ -67,16 +65,12 @@ permalink: /
 
 <section class="skills hide-mobile">
   <h2>Technical &amp; Leadership Skills</h2>
-  <dl class="skills-grid">
-    <dt>ML &amp; CV</dt>
-    <dd>2D/3D image processing · NLP · time series · full AI lifecycle</dd>
-    <dt>Software</dt>
-    <dd>Python · Java · TensorFlow · PyTorch · Docker · Kubernetes</dd>
-    <dt>Embedded AI &amp; Edge</dt>
-    <dd>HW lifecycle management · edge deployments</dd>
-    <dt>Leadership</dt>
-    <dd>Team building · mentoring · strategic roadmapping</dd>
-  </dl>
+  <ul>
+    <li><strong>ML &amp; CV</strong>: 2D/3D image processing, NLP, time series, full AI lifecycle</li>
+    <li><strong>Software</strong>: Python, Java, TensorFlow, PyTorch, Docker, Kubernetes</li>
+    <li><strong>Embedded AI &amp; Edge</strong>: HW lifecycle management, edge deployments</li>
+    <li><strong>Leadership</strong>: team building, mentoring, strategic roadmapping</li>
+  </ul>
 </section>
 
 <section class="publications hide-mobile">
