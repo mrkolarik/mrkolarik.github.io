@@ -25,7 +25,7 @@ Entrepreneur and senior AI consultant with a Ph.D. in Machine Learning and Compu
 Proven track record of building AI-driven products, leading multidisciplinary teams, and scaling innovations from prototype to production.
 </section>
 
-<section class="highlights">
+<section class="highlights hide-mobile">
 ## Highlights
 
 - Brought multiple AI+hardware products to market  
@@ -34,7 +34,7 @@ Proven track record of building AI-driven products, leading multidisciplinary te
 - Experienced in deep-tech productization and early-stage fundraising  
 </section>
 
-<section class="experience">
+<section class="experience hide-mobile">
 ## Experience
 
 - **Founder & CEO** — Agiception s.r.o.  
@@ -43,13 +43,13 @@ Proven track record of building AI-driven products, leading multidisciplinary te
 - **Machine Learning Engineer** — BurgSys, a.s.  
 </section>
 
-<section class="education">
+<section class="education hide-mobile">
 ## Education
 
 - **Ph.D. in Data Science & Machine Learning** — Brno University of Technology  
 </section>
 
-<section class="skills">
+<section class="skills hide-mobile">
 ## Technical & Leadership Skills
 
 - **Machine Learning & Computer Vision**: 2D/3D segmentation, transfer learning, time series analysis  
@@ -61,13 +61,13 @@ Proven track record of building AI-driven products, leading multidisciplinary te
   - Fundraising, grant writing, investor communication  
 </section>
 
-<section class="publications">
+<section class="publications hide-mobile">
 ## Selected Publications
 
 - *Planar 3D Transfer Learning for End-to-End Unimodal MRI Unbalanced Data Segmentation* — ICPR 2020  
 - *Optimized High Resolution 3D Dense-U-Net for Brain and Spine Segmentation* — Applied Sciences  
 
-[Full publication list →](https://scholar.google.com/citations?user=w6J2MOQAAAAJ)
+[Full publication list →](https://scholar.google.com/citations?user=w6J2MOQAAAAA)
 </section>
 
 <section class="contact">
@@ -79,7 +79,7 @@ Proven track record of building AI-driven products, leading multidisciplinary te
 🌐 [martinkolarik.com](https://martinkolarik.com)
 </section>
 
-<section class="collaborations">
+<section class="collaborations hide-mobile">
 ## Open to Collaborations
 
 I specialize in solving deep-tech challenges at the intersection of AI, computer vision, and hardware.  
