@@ -47,18 +47,56 @@ permalink: /
 <section class="education hide-mobile">
   <h2>Education</h2>
   <p>
-    <strong>Ph.D. in Data Science &amp; Machine Learning</strong> — Brno University of Technology  
-    [Advancing Encoder-Decoder Neural Networks for Medical Image Segmentation ↗️](https://theses.cz/id/pu7fxw/Kolarik_Dissertation_Final.pdf?lang=en)
+    <strong>Ph.D. in Data Science &amp; Machine Learning</strong> — Brno University of Technology
+  </p>
+  <p>
+    <em>
+      <a href="https://theses.cz/id/pu7fxw/Kolarik_Dissertation_Final.pdf?lang=en">
+        Advancing Encoder-Decoder Neural Networks for Medical Image Segmentation
+      </a>
+    </em>
   </p>
 </section>
 
 <section class="skills hide-mobile">
   <h2>Technical &amp; Leadership Skills</h2>
-  <ul>
-    <li><strong>ML &amp; CV</strong>: 2D/3D image processing, time series analysis, NLP, full AI lifecycle (data prep, labeling, training, deployment, versioning)</li>
-    <li><strong>Software</strong>: Python, Java, TensorFlow, PyTorch, Docker, Kubernetes, Linux, Git</li>
-    <li><strong>Embedded AI &amp; Edge</strong>: HW product lifecycle management</li>
-    <li><strong>Leadership</strong>: team building &amp; mentoring, strategic roadmapping, stakeholder communication</li>
+  <ul class="skills-list">
+    <li>
+      <strong>ML &amp; CV</strong>
+      <ul>
+        <li>2D/3D image processing</li>
+        <li>Time series analysis</li>
+        <li>NLP</li>
+        <li>Full AI lifecycle: data prep, labeling, training, deployment, versioning</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Software</strong>
+      <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>TensorFlow &amp; PyTorch</li>
+        <li>Docker &amp; Kubernetes</li>
+        <li>Linux &amp; Git</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Embedded AI &amp; Edge</strong>
+      <ul>
+        <li>HW product lifecycle management</li>
+        <li>Leading expert teams &amp; removing blockers</li>
+        <li>Ensuring successful edge deployments</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Leadership</strong>
+      <ul>
+        <li>Team building &amp; mentoring</li>
+        <li>Cross-functional coordination</li>
+        <li>Strategic roadmapping</li>
+        <li>Stakeholder communication</li>
+      </ul>
+    </li>
   </ul>
 </section>
 
