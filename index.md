@@ -4,7 +4,7 @@ title: "Martin Kolarik, Ph.D."
 permalink: /
 ---
 
-<section class="hero">
+<section class="hero" markdown="1">
 # Martin Kolarik, Ph.D.
 
 Founder | AI Consultant | Machine Learning Scientist  
@@ -18,14 +18,14 @@ Delivering real-world AI systems — from research to revenue.
 </div>
 </section>
 
-<section class="profile">
+<section class="profile" markdown="1">
 ## Profile
 
 Entrepreneur and senior AI consultant with a Ph.D. in Machine Learning and Computer Vision.  
 Proven track record of building AI-driven products, leading multidisciplinary teams, and scaling innovations from prototype to production.
 </section>
 
-<section class="highlights hide-mobile">
+<section class="highlights hide-mobile" markdown="1">
 ## Highlights
 
 - Brought multiple AI+hardware products to market  
@@ -34,7 +34,7 @@ Proven track record of building AI-driven products, leading multidisciplinary te
 - Experienced in deep-tech productization and early-stage fundraising  
 </section>
 
-<section class="experience hide-mobile">
+<section class="experience hide-mobile" markdown="1">
 ## Experience
 
 - **Founder & CEO** — Agiception s.r.o.  
@@ -43,13 +43,13 @@ Proven track record of building AI-driven products, leading multidisciplinary te
 - **Machine Learning Engineer** — BurgSys, a.s.  
 </section>
 
-<section class="education hide-mobile">
+<section class="education hide-mobile" markdown="1">
 ## Education
 
 - **Ph.D. in Data Science & Machine Learning** — Brno University of Technology  
 </section>
 
-<section class="skills hide-mobile">
+<section class="skills hide-mobile" markdown="1">
 ## Technical & Leadership Skills
 
 - **Machine Learning & Computer Vision**: 2D/3D segmentation, transfer learning, time series analysis  
@@ -61,27 +61,18 @@ Proven track record of building AI-driven products, leading multidisciplinary te
   - Fundraising, grant writing, investor communication  
 </section>
 
-<section class="publications hide-mobile">
+<section class="publications hide-mobile" markdown="1">
 ## Selected Publications
 
 - *Planar 3D Transfer Learning for End-to-End Unimodal MRI Unbalanced Data Segmentation* — ICPR 2020  
 - *Optimized High Resolution 3D Dense-U-Net for Brain and Spine Segmentation* — Applied Sciences  
 
-[Full publication list →](https://scholar.google.com/citations?user=w6J2MOQAAAAA)
+[Full publication list →](https://scholar.google.com/citations?user=w6J2MOQAAAAJ)
 </section>
 
-<section class="contact">
+<section class="contact" markdown="1">
 ## Contact
-
-<img src="/assets/img/profile.png" alt="Martin Kolarik" class="hero-img">
 
 ✉️ [mr.kolarik@email.cz](mailto:mr.kolarik@email.cz)  
 🌐 [martinkolarik.com](https://martinkolarik.com)
-</section>
-
-<section class="collaborations hide-mobile">
-## Open to Collaborations
-
-I specialize in solving deep-tech challenges at the intersection of AI, computer vision, and hardware.  
-If you’re building something ambitious — or seeking a technical co-founder, consultant, or venture partner — feel free to reach out.
 </section>
