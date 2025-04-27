@@ -27,9 +27,9 @@ permalink: /
 <section class="highlights hide-mobile">
   <h2>Highlights</h2>
   <ul>
-    <li>Brought multiple AI + hardware products to market</li>
-    <li>Led technical teams across full product life cycle</li>
-    <li>Raised €400 k+ in public and private R&D funding</li>
+    <li>Brought multiple AI / cloud / electronic &amp; HW products to market</li>
+    <li>Led technical AI teams across full ML product life cycle</li>
+    <li>Raised €400 k+ in R&amp;D funding for public and private institutions</li>
     <li>Experienced in deep-tech productization and early-stage fundraising</li>
   </ul>
 </section>
@@ -46,22 +46,19 @@ permalink: /
 
 <section class="education hide-mobile">
   <h2>Education</h2>
-  <p><strong>Ph.D. in Data Science &amp; Machine Learning</strong> — Brno University of Technology</p>
+  <p>
+    <strong>Ph.D. in Data Science &amp; Machine Learning</strong> — Brno University of Technology  
+    [Advancing Encoder-Decoder Neural Networks for Medical Image Segmentation ↗️](https://theses.cz/id/pu7fxw/Kolarik_Dissertation_Final.pdf?lang=en)
+  </p>
 </section>
 
 <section class="skills hide-mobile">
   <h2>Technical &amp; Leadership Skills</h2>
   <ul>
-    <li><strong>ML &amp; CV</strong>: 2D/3D segmentation, transfer learning, time series analysis</li>
-    <li><strong>Embedded AI &amp; Edge</strong>: pruning, quantization, real-world constraints</li>
-    <li><strong>Software Eng</strong>: Python, TensorFlow, PyTorch, Docker, Linux, Git</li>
-    <li><strong>Leadership</strong>:
-      <ul>
-        <li>Team building &amp; technical leadership</li>
-        <li>Rapid prototyping in uncertain environments</li>
-        <li>Fundraising, grant writing, investor communication</li>
-      </ul>
-    </li>
+    <li><strong>ML &amp; CV</strong>: 2D/3D image processing, time series analysis, NLP, full AI lifecycle (data prep, labeling, training, deployment, versioning)</li>
+    <li><strong>Software</strong>: Python, Java, TensorFlow, PyTorch, Docker, Kubernetes, Linux, Git</li>
+    <li><strong>Embedded AI &amp; Edge</strong>: HW product lifecycle management</li>
+    <li><strong>Leadership</strong>: team building &amp; mentoring, strategic roadmapping, stakeholder communication</li>
   </ul>
 </section>
 
