@@ -74,6 +74,13 @@ section + section {
   margin-top: 1rem;
 }
 
+/* Hide-on-mobile helper */
+@media (max-width: 600px) {
+  .hide-mobile {
+    display: none !important;
+  }
+}
+
 /* Responsive 2-column grid for skills & experience */
 @media (min-width: 768px) {
   .skills, .experience {
@@ -89,4 +96,35 @@ section + section {
   border-radius: 50%;
   display: block;
   margin: 1rem auto 0;
+}
+
+/* === Header / Footer === */
+.site-header {
+  padding: 1rem 0;
+  text-align: center;
+}
+.site-header-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+.site-header-img {
+  width: clamp(80px, 20vw, 120px);
+  border-radius: 50%;
+}
+.site-title {
+  font-size: clamp(1.75rem, 4vw + 1rem, 2.5rem);
+  margin: 0;
+  font-family: var(--mono);
+}
+.site-subtitle {
+  margin: 0;
+  font-size: clamp(1rem, 2.5vw + .5rem, 1.125rem);
+}
+.site-footer {
+  text-align: center;
+  padding: 1.5rem 0;
+  font-size: 0.875rem;
+  color: #888;
 }
