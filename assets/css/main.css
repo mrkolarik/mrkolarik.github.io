@@ -104,6 +104,16 @@ section + section {
   margin: 0 auto 1rem;
 }
 
+/* Hero tagline */
+.hero-tagline {
+  font-size: clamp(1rem, 2.5vw + .25rem, 1.125rem);
+  text-align: center;
+  margin-bottom: 1rem;
+  color: var(--text);
+  opacity: 0.85;
+}
+
+
 /* Footer styling */
 .site-footer {
   text-align: center;
