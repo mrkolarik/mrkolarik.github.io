@@ -4,18 +4,16 @@ title: "Martin Kolarik, Ph.D."
 permalink: /
 ---
 
-<section class="hero" markdown="1">
-# Martin Kolarik, Ph.D.
-
-Founder | AI Consultant | Machine Learning Scientist  
-Delivering real-world AI systems — from research to revenue.
-
-<div class="profile-links">
-  <a href="https://github.com/mrkolarik">GitHub</a>
-  <a href="https://www.linkedin.com/in/mrkolarik/">LinkedIn</a>
-  <a href="https://scholar.google.com/citations?user=w6J2MOQAAAAJ">Google Scholar</a>
-  <a href="mailto:mr.kolarik@email.cz">Email</a>
-</div>
+<section class="hero">
+  <p class="hero-tagline">
+    Delivering real-world AI systems — from research to revenue.
+  </p>
+  <div class="profile-links">
+    <a href="https://github.com/mrkolarik">GitHub</a>
+    <a href="https://www.linkedin.com/in/mrkolarik/">LinkedIn</a>
+    <a href="https://scholar.google.com/citations?user=w6J2MOQAAAAJ">Google Scholar</a>
+    <a href="mailto:mr.kolarik@email.cz">Email</a>
+  </div>
 </section>
 
 <section class="profile" markdown="1">
