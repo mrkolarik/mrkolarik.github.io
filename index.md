@@ -9,9 +9,9 @@ permalink: /
     Delivering real-world AI systems — from research to revenue.
   </p>
   <div class="profile-links">
-    <a href="https://github.com/mrkolarik">GitHub</a>
-    <a href="https://www.linkedin.com/in/mrkolarik/">LinkedIn</a>
-    <a href="https://scholar.google.com/citations?user=w6J2MOQAAAAJ">Google Scholar</a>
+    <a href="https://github.com/mrkolarik" target="_blank">GitHub</a>
+    <a href="https://www.linkedin.com/in/mrkolarik/" target="_blank">LinkedIn</a>
+    <a href="https://scholar.google.com/citations?user=w6J2MOQAAAAJ" target="_blank">Google Scholar</a>
     <a href="mailto:martinkolarikemail@gmail.com">Email</a>
   </div>
 </section>
@@ -35,17 +35,17 @@ permalink: /
     <li>Build deep-tech AI systems: from research prototypes to production deployments</li>
     <li>Lead AI and imaging projects across industrial applications and academic research</li>
     <li>Delivered AI, cloud, electronic &amp; hardware solutions from prototype to market</li>
-    <li>Secured €400 k+ in R&amp;D funding for public and private institutions</li>
+    <li>Secured €450 k+ in R&amp;D funding for public and private institutions</li>
   </ul>
 </section>
 
 <section class="experience hide-mobile">
   <h2>Experience</h2>
   <ul>
-    <li><strong>Founder &amp; CEO</strong> — Agiception s.r.o.</li>
-    <li><strong>Postdoc Research Scientist</strong> — Brno University of Technology</li>
-    <li><strong>AI Consultant &amp; Developer</strong> — Freelance</li>
-    <li><strong>ML Engineer</strong> — BurgSys, a.s.</li>
+    <li><strong>Founder &amp; CEO</strong> — <a href="https://agiception.com/" target="_blank">Agiception</a></li>
+    <li><strong>ML Research Scientist</strong> — Brno University of Technology</li>
+    <li><strong>AI Consultant &amp; Team Lead</strong> — Freelance</li>
+    <li><strong>ML Engineer</strong> — BurgSys</li>
   </ul>
 </section>
 
@@ -56,8 +56,8 @@ permalink: /
   </p>
   <p>
     <em>
-      <a href="https://theses.cz/id/pu7fxw/Kolarik_Dissertation_Final.pdf?lang=en">
-        Advancing Encoder-Decoder Neural Networks for Medical Image Segmentation
+      <a href="https://theses.cz/id/pu7fxw/Kolarik_Dissertation_Final.pdf?lang=en" target="_blank">
+        Thesis: Advancing Encoder-Decoder Neural Networks for Medical Image Segmentation
       </a>
     </em>
   </p>
@@ -76,8 +76,8 @@ permalink: /
 <section class="publications hide-mobile">
   <h2>Selected Publications</h2>
   <ul>
-    <li><em>Planar 3D Transfer Learning for End-to-End Unimodal MRI Unbalanced Data Segmentation</em> — ICPR 2020</li>
-    <li><em>Optimized High Resolution 3D Dense-U-Net for Brain and Spine Segmentation</em> — Applied Sciences</li>
+    <li><em><a href="https://ieeexplore.ieee.org/document/9412150" target="_blank">Planar 3D Transfer Learning for End-to-End Unimodal MRI Unbalanced Data Segmentation</a></em></li>
+    <li><em><a href="https://www.mdpi.com/2076-3417/9/3/404" target="_blank">Optimized High Resolution 3D Dense-U-Net for Brain and Spine Segmentation</a></em></li>
   </ul>
-  <p><a href="https://scholar.google.com/citations?user=w6J2MOQAAAAJ">Full publication list →</a></p>
+  <p><a href="https://scholar.google.com/citations?user=w6J2MOQAAAAJ" target="_blank">Full publication list →</a></p>
 </section>
