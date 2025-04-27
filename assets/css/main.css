@@ -34,11 +34,11 @@ a:hover {
 }
 
 /* Headings */
-h1 {
+h1, .hero-title {
   font-family: var(--mono);
   font-size: clamp(2rem, 5vw + 1rem, 3rem);
   text-align: center;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 h2 {
   font-size: clamp(1.5rem, 4vw + .5rem, 2.25rem);
@@ -46,8 +46,8 @@ h2 {
 }
 
 /* Paragraphs & Lists */
-p, ul, ol {
-  margin-bottom: 1.5rem;
+p, ul, ol, dd {
+  margin-bottom: 1rem;
 }
 ul {
   list-style-position: inside;
@@ -56,10 +56,6 @@ ul {
 }
 li {
   margin: 0.5rem 0;
-}
-li ul {
-  margin: 0.25rem 0;
-  padding-left: 1rem;
 }
 
 /* Main container */
@@ -77,13 +73,30 @@ section + section {
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-/* Profile links row */
+/* Hero & Profile Links */
+.hero-subtitle {
+  font-size: clamp(1rem, 2.5vw + .25rem, 1.125rem);
+  text-align: center;
+  margin-bottom: 0.5rem;
+  opacity: 0.75;
+}
+.hero-tagline {
+  font-size: clamp(1rem, 2.5vw + .25rem, 1.125rem);
+  text-align: center;
+  margin-bottom: 1rem;
+  opacity: 0.85;
+}
 .profile-links {
   display: flex;
   justify-content: center;
   gap: 1.5rem;
   flex-wrap: wrap;
-  margin-top: 1rem;
+}
+
+/* Contact-short styling */
+.contact-short h2,
+.contact-short p {
+  text-align: center;
 }
 
 /* Hide extra sections on mobile */
@@ -93,58 +106,42 @@ section + section {
   }
 }
 
-/* Responsive 2-column grid */
-@media (min-width: 768px) {
-  .skills, .experience {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-  }
+/* Experience List Grid */
+.experience-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.5rem 2rem;
+  list-style-position: inside;
+  margin: 1rem 0;
+}
+.experience-list li {
+  white-space: nowrap;
+  overflow-x: auto;
 }
 
-/* === Header & Footer Alignment === */
+/* Skills Definition Grid */
+.skills-grid {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.5rem 1.5rem;
+  margin: 1rem 0;
+}
+.skills-grid dt {
+  font-weight: 600;
+  text-align: right;
+}
+.skills-grid dd {
+  margin: 0;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+/* Header & Footer Alignment */
 .site-header,
 .site-footer {
   max-width: 900px;
   margin: auto;
   padding: 0 1rem;
-}
-
-/* Site Header */
-.site-header {
-  text-align: center;
-  padding: 2rem 1rem;
-}
-.site-header-img {
-  width: clamp(100px, 20vw, 140px);
-  height: clamp(100px, 20vw, 140px);
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto 1rem;
-  object-fit: cover;
-}
-.site-header-title {
-  font-family: var(--mono);
-  font-size: clamp(1.75rem, 5vw + 1rem, 2.5rem);
-  margin: 0.25rem 0;
-  color: var(--text);
-}
-.site-header-subtitle {
-  font-family: var(--sans);
-  font-size: clamp(1rem, 2.5vw + .25rem, 1.125rem);
-  margin: 0;
-  color: var(--text);
-  opacity: 0.75;
-  text-align: center;
-}
-
-/* Hero tagline */
-.hero-tagline {
-  font-size: clamp(1rem, 2.5vw + .25rem, 1.125rem);
-  text-align: center;
-  margin-bottom: 1rem;
-  color: var(--text);
-  opacity: 0.85;
 }
 
 /* Footer styling */
@@ -154,4 +151,3 @@ section + section {
   font-size: 0.875rem;
   color: #888;
 }
-
