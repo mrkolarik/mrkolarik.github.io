@@ -32,10 +32,10 @@ permalink: /
 <section class="highlights hide-mobile">
   <h2>Highlights</h2>
   <ul>
-    <li>Brought multiple AI / cloud / electronic &amp; HW products to market</li>
-    <li>Led technical AI teams across full ML product life cycle</li>
-    <li>Raised €400 k+ in R&amp;D funding for public and private institutions</li>
-    <li>Experienced in deep-tech productization and early-stage fundraising</li>
+    <li>Build deep-tech AI systems: from research prototypes to production deployments</li>
+    <li>Lead AI and imaging projects across industrial applications and academic research</li>
+    <li>Delivered AI, cloud, electronic &amp; hardware solutions from prototype to market</li>
+    <li>Secured €400 k+ in R&amp;D funding for public and private institutions</li>
   </ul>
 </section>
 
