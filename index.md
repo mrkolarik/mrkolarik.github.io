@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Martin Kolarik, Ph.D."
+title: "Martin Kolarik, PhD"
 permalink: /
 ---
 
